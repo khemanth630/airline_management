@@ -6,7 +6,7 @@ package airlinemanagement;
 
 /**
  *
- * @author Manoj Kumar
+ * @author Hemanth
  */
 public class AirlineManagement {
 
